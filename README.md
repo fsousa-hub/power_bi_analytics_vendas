@@ -47,6 +47,7 @@ O relatório de vendas utiliza uma estrutura de **painel** com diversos elemento
 - **Gráfico de Pizza:** Mostra a proporção das vendas de cada produto ou segmento em relação ao total.
 - **Mapa de Calor:** Mostra as vendas por região geográfica, utilizando cores para indicar diferentes níveis de desempenho.
 <br>
+
 ### Paginas de relatório referente ao desafio de projeto:
 
 ### Página 1: Home
