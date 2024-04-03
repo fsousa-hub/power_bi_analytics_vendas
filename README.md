@@ -50,7 +50,12 @@ O relatório de vendas utiliza uma estrutura de **painel** com diversos elemento
 ### Paginas de relatório referente ao desafio de projeto:
 
 ### Página 1: Home
+![page_1](https://github.com/fsousa-hub/power_bi_analytics_vendas/blob/main/Desafio%20de%20Projeto/home_desafio_pwbi_relatorio_vendas.png?raw=true
+)
+
+
 ### Página 2: Report
+![page_2](https://github.com/fsousa-hub/power_bi_analytics_vendas/blob/main/Desafio%20de%20Projeto/report_desafio_pwbi_relatorio_vendas.png.png?raw=true)
 
 
 **Glossário de Termos**
