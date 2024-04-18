@@ -1,9 +1,3 @@
----
-title: Untitled
-created: '2024-04-03T14:44:51.232Z'
-modified: '2024-04-03T20:42:41.281Z'
----
-
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
